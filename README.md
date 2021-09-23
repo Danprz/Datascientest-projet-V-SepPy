@@ -27,6 +27,8 @@ You will need to install the [demucs](https://github.com/facebookresearch/demucs
 	pyvis==0.1.9
 
 
+![Prueba](https://user-images.githubusercontent.com/69302088/134561535-e7230aff-5ec7-4005-996c-0cca1cf959b8.gif)
+
 # Credits
 
 <p>
